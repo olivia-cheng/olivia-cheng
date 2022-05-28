@@ -6,7 +6,7 @@
 - 🔭 My professional skills include Python / R / SQL / Tableau / PowerBI / SAS / Excel.
 - ⚡ Fun fact: I am a dog lover and a great bathroom singer!
 - 👀 I’m actively looking for a full-time job in Business Analyst / Business Intelligence / Data Analyst.
-- 📫 Connect me via LinkedIn: https://www.linkedin.com/in/oliviatcheng/
+- 📫 Contact me via LinkedIn: https://www.linkedin.com/in/oliviatcheng/
 <!---
 <a href="https://github.com/olivia-cheng">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivia-cheng&theme=light&hide_langs_below=1" />

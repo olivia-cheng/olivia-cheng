@@ -1,11 +1,12 @@
 ### Hi 👋, I’m Olivia.
 
-## I’m an enthusiasm data analyst!
-- 👀 I’m interested in business analytics, analyzing data and visualization.
-- 🎓 I graduated from Purdue University in this May with a master's degree in Business Analytics and Information Management.
-- 💞️ I’m looking for a full-time job in Business Analyst / Business Intelligence / Data Analyst
-- 📫 Connect me via LinkedIn: https://www.linkedin.com/in/oliviatcheng/
+## I’m an enthusiastic data analyst!
+- 💞️ I have a great passion for business analytics, data analytics and visualization.
+- 🎓 I graduated from Purdue University with MS degree in Business Analytics and Information Management.
+- 🔭 My professional skills include Python / R / SQL / Tableau / PowerBI / SAS / Excel.
 - ⚡ Fun fact: I am a dog lover and a great bathroom singer!
+- 👀 I’m actively looking for a full-time job in Business Analyst / Business Intelligence / Data Analyst.
+- 📫 Connect me via LinkedIn: https://www.linkedin.com/in/oliviatcheng/
 <!---
 <a href="https://github.com/olivia-cheng">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivia-cheng&theme=light&hide_langs_below=1" />
